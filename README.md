@@ -10,9 +10,9 @@
 
 - ▶️ I regularly post videos on [LeonardinhoDev](https://www.youtube.com/channel/UCvjq_D_7edeI5zHV6uANLgg/featured)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, REACT, UML
+- 💬 Ask me about : JavaScript, HTML, CSS, SQL, Node.JS, REACT, UML
 
-- ⚡ Huge raclette fan 😜**
+- ⚡ Huge raclette fan 😜
 
 <br><br>
 
