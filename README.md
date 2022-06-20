@@ -42,20 +42,18 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+
+<a href="https://twitter.com/leonard46220089" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leonardinhoDev-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://www.linkedin.com/in/leonardo-antonio-maundo-kabongo-0a9141182/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leonardoKabongo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.instagram.com/leonardinhodev/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-leonardinhodev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://www.youtube.com/channel/UCvjq_D_7edeI5zHV6uANLgg/featured" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-leonardinhoDev-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
