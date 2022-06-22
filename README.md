@@ -9,7 +9,7 @@
 
 - 👨‍💻 My latest project available here [Puissance-hydro](https://puissance-hydro.fr/) --    [BeautySalon](https://leonardo75018.github.io/beautySalonNlw6/)
 
-- ▶️ I regularly post videos on [LeonardinhoDev](https://www.youtube.com/channel/UCvjq_D_7edeI5zHV6uANLgg/featured)
+- ▶️ I regularly post videos on [LeoCoding](https://www.youtube.com/channel/UCvjq_D_7edeI5zHV6uANLgg/featured)
 
 - 💬 Ask me about : JavaScript, HTML, CSS, SQL, Node.JS, REACT, UML
 
