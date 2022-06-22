@@ -7,7 +7,7 @@
 
 - 🔭 I am currently training at JavaScript at [Rocketseat](https://www.rocketseat.com.br/discover)
 
-- 👨‍💻 My latest project available here [Puissance-hydro](https://puissance-hydro.fr/)
+- 👨‍💻 My latest project available here [Puissance-hydro](https://puissance-hydro.fr/) -- [BeautySalon] (https://leonardo75018.github.io/beautySalonNlw6/)
 
 - ▶️ I regularly post videos on [LeonardinhoDev](https://www.youtube.com/channel/UCvjq_D_7edeI5zHV6uANLgg/featured)
 
